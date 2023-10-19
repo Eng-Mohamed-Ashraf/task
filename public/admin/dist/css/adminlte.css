@@ -9156,6 +9156,9 @@ button.bg-dark:focus {
 .pagination nav{
     BACKGROUND: TRANSPARENT !important;
 }
+.pagination .flex-1{
+  display:none
+}
 .pagination nav svg{
     width:25px !important
 }
